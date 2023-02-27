@@ -1,3 +1,5 @@
 from lib.logic import wiki
 
-print(wiki())
+result = print(wiki())
+result = result
+print(result)
