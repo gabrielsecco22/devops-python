@@ -1,3 +1,5 @@
+[![App](https://github.com/gabrielsecco22/devops-python/actions/workflows/aws.yml/badge.svg)](https://github.com/gabrielsecco22/devops-python/actions/workflows/aws.yml)
+
 # devops-python
 
 ## Scaffold
