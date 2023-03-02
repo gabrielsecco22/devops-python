@@ -10,7 +10,7 @@ lint:
 	pylint --disable=R,C ./**/*.py *.py
 test:
 	#test scripts
-	python -m pytest -vv --cov=lib
+	python -m pytest -vv --cov=main
 build: 
 	#build container
 deploy:
